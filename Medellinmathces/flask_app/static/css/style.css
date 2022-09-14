@@ -1,0 +1,41 @@
+
+nav {
+    background-image: rgb(97, 85, 183);
+}
+.buscador {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    
+}
+
+.lupa {
+    height: 25px;
+    position: relative;
+    right: 220px;
+}
+
+.logo {
+    height: 120px;
+    position: relative;
+}
+
+.box {
+    width: 700px;
+    height: 40px;
+    border-radius: 150px;
+    font-size: 100%;
+    border-color: gainsboro;
+}
+
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: blanchedalmond;
+}
+
+.card-body{
+    background-color: rgb(99, 204, 180);
+}
